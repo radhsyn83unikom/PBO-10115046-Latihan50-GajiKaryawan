@@ -1,5 +1,13 @@
 package com.radhsyn83;
 
+/*
+ *
+ * Fathur Radhy
+ * 10115046
+ * PDO11K
+ */
+
+
 import java.util.Scanner;
 
 public class Main {
